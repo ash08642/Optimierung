@@ -1,0 +1,2 @@
+# Optimierung
+Algorithumn verberssern stratagien
